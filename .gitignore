@@ -1,0 +1,6 @@
+# macOS systemfiler
+.DS_Store
+
+# Ignorer bin og obj mapper i alle underfoldere
+bin/
+obj/
