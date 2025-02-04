@@ -1,0 +1,14 @@
+/Users/sarahhenriksen/Desktop/Software/Kode/HelloWorld/bin/Debug/net8.0/HelloWorld
+/Users/sarahhenriksen/Desktop/Software/Kode/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/Users/sarahhenriksen/Desktop/Software/Kode/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/Users/sarahhenriksen/Desktop/Software/Kode/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/Users/sarahhenriksen/Desktop/Software/Kode/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/Users/sarahhenriksen/Desktop/Software/Kode/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarahhenriksen/Desktop/Software/Kode/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/sarahhenriksen/Desktop/Software/Kode/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/Users/sarahhenriksen/Desktop/Software/Kode/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/sarahhenriksen/Desktop/Software/Kode/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/Users/sarahhenriksen/Desktop/Software/Kode/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/Users/sarahhenriksen/Desktop/Software/Kode/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/Users/sarahhenriksen/Desktop/Software/Kode/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/Users/sarahhenriksen/Desktop/Software/Kode/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
